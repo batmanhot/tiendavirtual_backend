@@ -31,11 +31,7 @@ Para este proyecto hemos utilizado lo siguiente .
 -POSTGRESS
 -SWAGGER
 ```
-
-
-## IMAGENES DE LA APLICACION
-
-![Imagen de Celular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto4.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto5.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto6.png), !["Imagen de Ceular"](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto4.png),
+![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto5.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto6.png), !["Imagen de Ceular"]
 
 
 
