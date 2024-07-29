@@ -23,6 +23,7 @@ Para este proyecto hemos utilizado lo siguiente .
 -JAZMIN
 -POSTGRESS
 -SWAGGER
+````
 
 
 ![Imagen de Celular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto8.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto2.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto3.png), 
