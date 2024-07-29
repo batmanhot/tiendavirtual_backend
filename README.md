@@ -1,4 +1,5 @@
 # Proyecto de Tienda Virtual de venta rapida para peque�os negocios.
+# MODULO BACKEND
 
 ## DEFINICION
 Este proyecto est� orientado para el uso de pymes y micronegocios o cualquier giro de negocio orientado a la venta de rapida productos por internet, para este caso hemos usado el nombre de "RED BURGUER"� de dicado a la venta de compida rapida y hamburguesas.
@@ -31,17 +32,10 @@ Para este proyecto hemos utilizado lo siguiente .
 -SWAGGER
 ```
 
-## STACK
-Para este proyecto hemos utilizado lo siguiente .
-
-
-Creamos el archivo `.gitignore` y agregamos la carpeta `node_module`, esto sirve para evitar que dicha carpeta se suba a `github`, debido a que esta carpeta es muy pesada.
 
 ## IMAGENES DE LA APLICACION
 
-[![Foto 1](/assets/app/foto1.png "Shiprock, New Mexico by Beau Rogers")]
-=======
+![Imagen de Celular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto4.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto5.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto6.png), !["Imagen de Ceular"](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto4.png),
 
-![Foto1](\assets\app\foto1.png)
-![Foto2](\assets\app\foto2.png)
+
 
