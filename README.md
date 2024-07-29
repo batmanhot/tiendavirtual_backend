@@ -24,6 +24,8 @@ Para este proyecto hemos utilizado lo siguiente .
 -POSTGRESS
 -SWAGGER
 ```
+
+![Imagen de Celular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto1.png),
 ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto8.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto9.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto10.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto11.png) 
 
 
