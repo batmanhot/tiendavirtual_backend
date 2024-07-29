@@ -23,7 +23,9 @@ Para este proyecto hemos utilizado lo siguiente .
 -JAZMIN
 -POSTGRESS
 -SWAGGER
+````
 
 
-
+![Imagen de Celular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto8.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto9.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto9.png), 
+![Imagen de Celular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto10.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto11.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto12.png)
 
