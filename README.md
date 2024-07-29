@@ -26,6 +26,6 @@ Para este proyecto hemos utilizado lo siguiente .
 ````
 
 
-![Imagen de Celular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto8.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto2.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto3.png), 
-![Imagen de Celular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto4.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto5.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto6.png)
+![Imagen de Celular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto8.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto9.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto9.png), 
+![Imagen de Celular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto10.png)  , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto11.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual_backend/blob/main/img/foto12.png)
 
