@@ -2,25 +2,18 @@
 # MODULO BACKEND
 
 ## DEFINICION
-Este proyecto est� orientado para el uso de pymes y micronegocios o cualquier giro de negocio orientado a la venta de rapida productos por internet, para este caso hemos usado el nombre de "RED BURGUER"� de dicado a la venta de compida rapida y hamburguesas.
+Este proyecto está orientado para el uso de pymes y micronegocios o cualquier giro de negocio orientado a la venta de rapida productos por internet, para este caso hemos usado el nombre de "RED BURGUER" de dicado a la venta de compida rapida y hamburguesas.
 
 ## ALCANCES
-
-El proyecto es escalable y puede seguir creciendo en un modelo m�s personalizado y complejo, la finalidad es dar una soluci�n r�pida y econ�mica durante el proceso de la gesti�n de las ventas. 
+Este proyecto de backend esta orientado a brindar el acceso a la base de datos y a la nube, asi tambien se construyo un modulo de administracion para la gestion de las tablas del aplicativo, para un adecuado funcionamiento, convirtiendo al app en completamente administrado.
 
 ## FUNCIONALIDAD
-Asimismo, el aplicativo es responsivo y orientado principalmente al uso en equipos moviles, su funcionamiento es sencillo de comprender e intuitivo en el uso.
-Para su uso y descarga es necesario indicar que este aplicativo, funciona estando activo el server de backend de PYTHON-DJANGO, el cual es el que conecta a la base de datos.
+El modulo de Administracion dispone de los accesos crud para la gestion adecuada y correcta de las tablas que usan el app.
 
 ## STACK
 Para este proyecto hemos utilizado lo siguiente .
 
 ```bash
-#FRONTEND
--HTML5
--CSS3
--JAVASCRIPT
-
 #BACKEND
 -PYTHON
 -DJANGO
@@ -31,7 +24,7 @@ Para este proyecto hemos utilizado lo siguiente .
 -POSTGRESS
 -SWAGGER
 ```
-![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto5.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto6.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto7.png), 
+![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto8.png) , ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto9.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto10.png), ![Imagen de Ceular](https://github.com/batmanhot/tiendavirtual/blob/main/assets/app/Foto11.png) 
 
 
 
