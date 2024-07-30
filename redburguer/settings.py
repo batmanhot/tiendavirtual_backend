@@ -196,6 +196,7 @@ JAZZMIN_SETTINGS = {
 
 STATIC_ROOT = BASE_DIR/'static'
 
+CORS_ALLOW_ALL_ORIGINS = True
 
 # SIMPLE_JWT = {
 #     "ACCESS_TOKEN_LIFETIME": timedelta(weeks=4)  # days=365*100 => 100 años
